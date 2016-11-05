@@ -1,7 +1,7 @@
 # Projeto de Processamento de Imagem
 Projeto da disciplina de Computação Gráfica 2016.1 (Ciência da Computação - UEPB).
 
-* Filtros
+* Filtros:
  - Média
  - Mediana
  - Passa Alta
@@ -14,7 +14,7 @@ Projeto da disciplina de Computação Gráfica 2016.1 (Ciência da Computação 
  - Gamma
  - Logaritmo
  
-* Operações Numéricas
+* Operações Numéricas:
  - Soma
  - Subtração
  - Multiplicação
@@ -23,13 +23,13 @@ Projeto da disciplina de Computação Gráfica 2016.1 (Ciência da Computação 
  - OR
  - XOR
 
-* Operações Geométricas
+* Operações Geométricas:
  - Escala
  - Rotação
  - Cisalhamento
  - Translação
 
-* Gato de Arnold
+* Gato de Arnold.
 
-* Equalização da Imagem com Histograma
+* Equalização da Imagem com Histograma.
 
