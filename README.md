@@ -1,12 +1,35 @@
-<<<<<<< HEAD
-﻿# Projeto de Processamento de Imagem
+# Projeto de Processamento de Imagem
 Projeto da disciplina de Computação Gráfica 2016.1 (Ciência da Computação - UEPB).
 
-* 8 Filtros
+* Filtros
+ - Média
+ - Mediana
+ - Passa Alta
+ - Prewitt
+ - Alto Reforço
+ - Sobel
+ - Gradiente
+ - Gradiente Cruzado
+ - Negativo
+ - Gamma
+ - Logaritmo
+ 
 * Operações Numéricas
-* Gato de Arnold
-* Equalização da Imagem com Histograma
+ - Soma
+ - Subtração
+ - Multiplicação
+ - Divisão
+ - AND
+ - OR
+ - XOR
+
 * Operações Geométricas
-=======
-# ProcessamentoDeImagem_Project
->>>>>>> c0c7b789f9f478f5c6bda7617483fb2f2f0302f4
+ - Escala
+ - Rotação
+ - Cisalhamento
+ - Translação
+
+* Gato de Arnold
+
+* Equalização da Imagem com Histograma
+
